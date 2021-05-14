@@ -12,6 +12,7 @@ npm start
 
 ng add @angular/material
 npm add hammerjs
+npm add flex-layout
 
 ng serve --aot
 ```
