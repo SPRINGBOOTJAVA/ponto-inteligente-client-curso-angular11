@@ -12,6 +12,8 @@ npm start
 
 ng add @angular/material
 npm add hammerjs
+
+ng serve --aot
 ```
 Acesse a aplicação em [http://localhost:4200](http://localhost:4200)  
 
